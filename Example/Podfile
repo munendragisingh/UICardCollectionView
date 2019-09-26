@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UICardCollectionView_Example' do
+  pod 'UICardCollectionView', :path => '../'
+
+  target 'UICardCollectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
