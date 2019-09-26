@@ -1,0 +1,22 @@
+{
+  "name": "UICardCollectionView",
+  "version": "0.1.0",
+  "summary": "A short description of UICardCollectionView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/munendragisingh/UICardCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "munendragisingh": "munendra89singh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/munendragisingh/UICardCollectionView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UICardCollectionView/Classes/**/*"
+}

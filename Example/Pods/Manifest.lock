@@ -1,0 +1,16 @@
+PODS:
+  - UICardCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - UICardCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  UICardCollectionView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UICardCollectionView: c471d7a964f1c20e2d864ac7976fb94449bf2a7b
+
+PODFILE CHECKSUM: 87a9d9af6d6bf8659cee1a5ad4e0b5c435546782
+
+COCOAPODS: 1.5.0

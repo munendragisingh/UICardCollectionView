@@ -1,0 +1,6 @@
+framework module UICardCollectionView {
+  umbrella header "UICardCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

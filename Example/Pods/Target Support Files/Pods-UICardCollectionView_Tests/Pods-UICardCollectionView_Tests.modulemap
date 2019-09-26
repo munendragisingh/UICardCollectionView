@@ -1,0 +1,6 @@
+framework module Pods_UICardCollectionView_Tests {
+  umbrella header "Pods-UICardCollectionView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
